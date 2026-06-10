@@ -1,1 +1,0 @@
-claude --resume 9758530b-0651-4a92-8d08-356566839587  # Improve GitHub repository README documentation
