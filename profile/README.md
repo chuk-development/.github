@@ -61,8 +61,8 @@ Small, focused tools that respect the user. No tracking, no profiling, no closed
 | Project | What it is |
 |---|---|
 | **[chukmail](https://github.com/chuk-development/chukmail)** | Material Design IMAP email client for Android — FOSS, no Google Play Services, no telemetry |
-| **[fluistern-android](https://github.com/chuk-development/fluistern-android)** | Voice-to-text overlay for Android — press and hold to record, release to transcribe via Groq Whisper |
-| **[fluistern](https://github.com/chuk-development/fluistern)** | Fluistern core |
+| **[plauder](https://github.com/chuk-development/plauder)** | WhisperFlow-style voice dictation for Linux — Groq Whisper + LLM formatting, Tauri + React GUI |
+| **[plauder-android](https://github.com/chuk-development/plauder-android)** | Voice-to-text overlay for Android — press and hold to record, release to transcribe via Groq Whisper |
 | **[session.txt](https://github.com/chuk-development/session.txt)** | Auto-log Claude Code & Codex resume commands into a per-folder `session.txt` — never lose a session |
 
 ## Built on tools we trust
